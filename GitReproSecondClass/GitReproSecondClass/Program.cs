@@ -11,6 +11,7 @@ namespace GitReproSecondClass
         static void Main(string[] args)
         {
             // code was updated by someone else and updated on master branch
+            //code change in VS
             
         }
     }
