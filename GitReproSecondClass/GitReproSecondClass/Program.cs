@@ -13,7 +13,7 @@ namespace GitReproSecondClass
             // code was updated by someone else and updated on master branch
             //code change in VS
 
-            //call me
+            //call feature class
             
         }
     }

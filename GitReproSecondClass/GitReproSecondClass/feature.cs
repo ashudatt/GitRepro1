@@ -9,6 +9,6 @@ namespace GitReproSecondClass
     class feature
     {
 
-        //Call me
+        //one feature change 
     }
 }
